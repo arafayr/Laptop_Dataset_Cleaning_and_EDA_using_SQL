@@ -365,7 +365,7 @@ END AS 'buckets'
 FROM laptops) t
 GROUP BY t.buckets; 
  
- -- vertical barchart
+ -- vertical histogram
 SELECT 
 CASE WHEN t.`0-25K`/45 >= t.`index` THEN  "*" ELSE "" END AS "0-25K",
 CASE WHEN t.`25K-50K`/45 >= t.`index` THEN  "*" ELSE "" END AS "25K-50K",
