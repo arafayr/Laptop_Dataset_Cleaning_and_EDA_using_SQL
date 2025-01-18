@@ -1,4 +1,4 @@
-# SQL Data Cleaning and EDA Project
+# Laptop Dataset Cleaning and EDA Using SQL 
 
 This project demonstrates comprehensive data cleaning, feature engineering, and exploratory data analysis (EDA) using SQL. The dataset, focused on laptop specifications, was transformed through SQL queries to achieve a well-structured and insightful database ready for further analysis and visualization. Additionally, vertical and horizontal histograms were implemented in SQL to gain a clearer understanding of data distributions.
 
